@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/cedricktheone/cedricktheone/assets/133050352/f5a89e91-6310-4403-b965-f3ea257d9ba7)
+
 )
 <h1 align="center">Bonjour/Hello 👋, I'm/Je suis Cedrick Cyusa Ishema</h1>
 <h3 align="center">I am a student in programming and application securite./je suis étudiant en programmation et sécurité.</h3>
