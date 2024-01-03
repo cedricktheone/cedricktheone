@@ -1,5 +1,7 @@
 
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://negativespace.co/wp-content/uploads/2017/04/negative-space-gray-laptop-computer-showing-html-code-Custom.jpg))
+<img src="https://github.com/cedricktheone/cedricktheone/assets/133050352/2e3b01f9-3140-4ac6-98b2-d101e489dec9" width="300">
+
+
 <h1 align="center">Bonjour/Hello 👋, I'm/Je suis Cedrick Cyusa Ishema</h1>
 <h3 align="center">I am a student in programming and application securite./je suis étudiant en programmation et sécurité.</h3>
 
