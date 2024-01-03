@@ -1,5 +1,6 @@
+<img src="https://github.com/cedricktheone/cedricktheone/blob/main/debug.gif?raw=true" width="300">
 
-<img src="https://github.com/cedricktheone/cedricktheone/assets/133050352/2e3b01f9-3140-4ac6-98b2-d101e489dec9" width="300">
+
 
 
 <h1 align="center">Bonjour/Hello 👋, I'm/Je suis Cedrick Cyusa Ishema</h1>
