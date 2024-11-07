@@ -12,7 +12,7 @@
 
 - 📝 connect with me [https://www.linkedin.com/in/cedrick-cyusa-ishema-217232289/](https://www.linkedin.com/in/cedrick-cyusa-ishema-217232289/)
 
-- 💬 Ask me about **javascript,python**
+- 💬 Ask me about **javascript,python,Kotlin and Application security**
 
 - 📫 How to reach me **cyusacedrickishema@gmail.com**
 
